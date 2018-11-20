@@ -1,0 +1,177 @@
+
+.banner{
+    width: 90%;
+    padding: 5%;
+    background: #fff;
+}
+
+.banner img{
+    width: 100%;
+}
+
+nav{
+    width: 90%;
+    padding: 0 5% 5%;
+    overflow: hidden;
+    background: #fff;
+}
+
+nav li{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+nav li a{
+    background: url(../../assets/images/nav1.png) no-repeat top center;
+    background-size: 70%;
+    display: inline-block;
+    padding-top: 60%;
+
+}
+
+nav li span{
+    font-size: 0.625rem;
+    margin-top: 20%;
+    color: #666;
+}
+.block{
+    width: 86%;
+    margin: 5%;
+    padding: 2% 2%;
+    background: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.today .left{
+    border-right: 1px solid #EFEFEF;
+    padding-right: 4%;
+}
+
+.today .day{
+    font-size: 0.75rem;
+    color: #666;
+    border-left: 6px solid #7695CF;
+    padding-left: 4%;
+}
+
+.today .time{
+    font-family: fantasy;
+    margin-top: 20%;
+}
+
+.today .time i{
+    font-size: 1.875rem;
+}
+
+.today .right{
+    font-size: 0.75rem;
+    width: 56%;
+}
+
+.today .right .tit{
+    float: right;
+}
+
+main{
+    margin-bottom: 20%;
+}
+
+main .arc img{
+    width: 100%;
+}
+
+
+main .arc .tit{
+    font-size: 0.875rem;
+    color: #333;
+    font-weight: bold;
+    padding-bottom: 2%;
+}
+
+main .arc .con{
+    font-size: 0.75rem;
+    color: #666;
+}
+
+main .arc .read, main .arc .person{
+    font-size: 0.625rem;
+    color: #9B9B9B;
+}
+
+main .arc .person{
+    margin-top: 2%;
+}
+
+main .arc .person img{
+    vertical-align: -4px;
+    width: 6%;
+}
+main .run .title, main .figure .title{
+    font-weight: bold;
+    color: #333;
+    font-size: 1rem;
+    margin-bottom: 2%;
+}
+
+main .run .con .left{
+    width: 26%;
+    margin-right: 4%;
+}
+
+main .run .con .right{
+    width: 70%;
+}
+
+main .run .con .left img{
+    width: 100%;
+}
+
+main .run .con .tit{
+    font-weight: bold;
+    color: #333;
+    font-size: 0.875rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+main .run .con .content{
+    font-size: 0.75rem;
+    color: #6B6B6B;
+}
+
+main .run .con .foot{
+    font-size: 0.625rem;
+    color: #9C9C9C;
+}
+
+main .run .con li{
+    padding: 4% 0;
+    border-bottom: 1px solid #F3F3F3;
+    overflow: hidden;
+}
+
+main .run .more{
+    font-size: 0.875rem;
+    color: #584F60;
+    text-align: center;
+    padding: 4% 0;
+}
+
+main .figure img{
+    width: 100%;
+}
+
+main .figure .con span{
+    font-size: 0.75rem;
+    color: #666;
+    float: left;
+}
+
+main .figure .con i{
+    font-size: 1.25rem;
+    float: right;
+    color: #24C789;
+}

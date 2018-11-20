@@ -1,0 +1,235 @@
+{
+    "course": [{
+        "Name": "下肢运动的能力训练",
+        "Time": "21分钟 · K2",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": true,
+        "Detail": true
+    },{
+        "Name": "腹肌撕裂者进阶",
+        "Time": "11分钟 · K3",
+        "Train": "上次训练 200 天前 15人正在练",
+        "Load": true,
+        "Detail": true
+        },{
+        "Name": "3 公里法特莱克跑",
+        "Time": "27分钟 · K1",
+        "Train": "还未进行过训练",
+        "Load": false,
+        "Detail": false    
+        },{
+        "Name": "马甲线养成",
+        "Time": "12分钟 · K3",
+        "Train": "上次训练 239 天前 34人正在练",
+        "Load": true,
+        "Detail": false    
+        },{
+        "Name": "瘦腿训练",
+        "Time": "13分钟 · K2",
+        "Train": "上次训练 241 天前 34人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "零噪音减脂入门",
+        "Time": "13分钟 · K1",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": false,
+        "Detail": true    
+        },{
+        "Name": "下肢运动的能力训练",
+        "Time": "21分钟 · K2",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": true,
+        "Detail": false    
+        },{
+        "Name": "腹肌撕裂者进阶",
+        "Time": "11分钟 · K3",
+        "Train": "上次训练 200 天前 15人正在练",
+        "Load": true,
+        "Detail": false    
+        },{
+        "Name": "3 公里法特莱克跑",
+        "Time": "27分钟 · K1",
+        "Train": "还未进行过训练",
+        "Load": false,
+        "Detail": true    
+        },{
+        "Name": "马甲线养成",
+        "Time": "12分钟 · K3",
+        "Train": "上次训练 239 天前 34人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "瘦腿训练",
+        "Time": "13分钟 · K2",
+        "Train": "上次训练 241 天前 34人正在练",
+        "Load": true,
+        "Detail": false    
+        },{
+        "Name": "零噪音减脂入门",
+        "Time": "13分钟 · K1",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": false,
+        "Detail": true    
+        },{
+        "Name": "下肢运动的能力训练",
+        "Time": "21分钟 · K2",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": true,
+        "Detail": false    
+        },{
+        "Name": "腹肌撕裂者进阶",
+        "Time": "11分钟 · K3",
+        "Train": "上次训练 200 天前 15人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "3 公里法特莱克跑",
+        "Time": "27分钟 · K1",
+        "Train": "还未进行过训练",
+        "Load": false,
+        "Detail": false    
+        },{
+        "Name": "马甲线养成",
+        "Time": "12分钟 · K3",
+        "Train": "上次训练 239 天前 34人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "瘦腿训练",
+        "Time": "13分钟 · K2",
+        "Train": "上次训练 241 天前 34人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "零噪音减脂入门",
+        "Time": "13分钟 · K1",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": false,
+        "Detail": true    
+        },{
+        "Name": "下肢运动的能力训练",
+        "Time": "21分钟 · K2",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "腹肌撕裂者进阶",
+        "Time": "11分钟 · K3",
+        "Train": "上次训练 200 天前 15人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "3 公里法特莱克跑",
+        "Time": "27分钟 · K1",
+        "Train": "还未进行过训练",
+        "Load": false,
+        "Detail": true    
+        },{
+        "Name": "马甲线养成",
+        "Time": "12分钟 · K3",
+        "Train": "上次训练 239 天前 34人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "瘦腿训练",
+        "Time": "13分钟 · K2",
+        "Train": "上次训练 241 天前 34人正在练",
+        "Load": true,
+        "Detail": true    
+        },{
+        "Name": "零噪音减脂入门",
+        "Time": "13分钟 · K1",
+        "Train": "还未进行过训练 7人正在练",
+        "Load": false
+    }],
+    "more": [{
+        "src": "/static/images/more1.png",
+        "tit": "最适合女生的课程",
+        "text": "让你瘦！ 让你美！"
+    },{
+        "src": "/static/images/more2.png",
+        "tit": "全部热身课程",
+        "text": "综合 | 跑前 | 足球"
+    },{
+        "src": "/static/images/more3.png",
+        "tit": "全部拉伸课程",
+        "text": "各部位 | 睡前 | 办公室 | 跑后"
+    },{
+        "src": "/static/images/more4.png",
+        "tit": "全部有氧操课",
+        "text": "有氧操 | 搏击操 | 塑形操 | 热舞操 | 太极"
+    },{
+        "src": "/static/images/more5.png",
+        "tit": "李现HIIT燃脂挑战",
+        "text": "李现亲身示范，带你一起瘦"
+    },{
+        "src": "/static/images/more6.png",
+        "tit": "全身综合课程",
+        "text": "徒手 | 哑铃 | 操课 | 拉伸"
+    },{
+        "src": "/static/images/more7.png",
+        "tit": "新手入门课",
+        "text": "快速进入状态"
+    },{
+        "src": "/static/images/more8.png",
+        "tit": "热舞操 · 燃脂爵士 01",
+        "text": "能让你变瘦的热舞"
+    },{
+        "src": "/static/images/more9.png",
+        "tit": "有氧操 · 燃脂派对",
+        "text": "一场让脂肪哭泣的派对"
+    },{
+        "src": "/static/images/more10.png",
+        "tit": "跳绳HIIT初级版",
+        "text": "更科学的跳绳训练"
+    },{
+        "src": "/static/images/more11.png",
+        "tit": "臀部塑形",
+        "text": "练出蜜桃臀"
+    },{
+        "src": "/static/images/more12.png",
+        "tit": "有氧操 1 Keep Fit 01",
+        "text": "零基础有氧课程"
+    },{
+        "src": "/static/images/more7.png",
+        "tit": "新手入门课",
+        "text": "快速进入状态"
+    },{
+        "src": "/static/images/more4.png",
+        "tit": "全部有氧操课",
+        "text": "有氧操 | 搏击操 | 塑形操 | 热舞操 | 太极"
+    }],
+    "act": [{
+        "src": "/static/images/act1.png"
+    },{
+        "src": "/static/images/act2.png"
+    },{
+        "src": "/static/images/act3.png"
+    },{
+        "src": "/static/images/act1.png"
+    },{
+        "src": "/static/images/act2.png"
+    },{
+        "src": "/static/images/act3.png"
+    }],
+    "actLib": [{
+        "src": "/static/images/actLib1.png",
+        "txt": "胸部"
+    },{
+        "src": "/static/images/actLib2.png",
+        "txt": "背部"
+    },{
+        "src": "/static/images/actLib3.png",
+        "txt": "肩部"
+    },{
+        "src": "/static/images/actLib1.png",
+        "txt": "胸部"
+    },{
+        "src": "/static/images/actLib2.png",
+        "txt": "背部"
+    },{
+        "src": "/static/images/actLib3.png",
+        "txt": "肩部"
+    }]
+}

@@ -1,0 +1,33 @@
+{
+    "cart": [
+        {
+          "src": "/static/images/shopPic1.jpg",
+          "name": "宽发带-天空蓝",
+          "infor": "颜色：天空蓝",
+          "price": 23,
+          "act": false,
+          "num": 1
+        },{
+            "src": "/static/images/shopPic2.jpg",
+            "name": "体脂秤-月光白",
+            "infor": "颜色：月光白",
+            "price": 179,
+            "act": false,
+            "num": 1
+        },{
+            "src": "/static/images/shopPic3.jpg",
+            "name": "瑞士球 樱花粉 65cm",
+            "infor": "尺寸：樱花粉 - 直径：65cm",
+            "price": 59,
+            "act": false,
+            "num": 1
+        },{
+            "src": "/static/images/shopPic4.jpg",
+            "name": "金属钥匙扣",
+            "infor": "材质金属",
+            "price": 29,
+            "act": false,
+            "num": 1
+        }
+    ]
+}   
