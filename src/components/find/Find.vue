@@ -1,22 +1,12 @@
 <template>
     <div>
-        <common-header>
-            <span slot="title">发现</span>
-        </common-header>
-            <router-view></router-view>
-        <common-footer></common-footer>
+        <router-view></router-view>
     </div>
 </template>
 
 <script>
-import CommonHeader from '../common/Header'
-import CommonFooter from '../common/Footer'
 
 export default {
-    components: {
-        CommonHeader,
-        CommonFooter
-    },
 }
 
 </script>
@@ -24,9 +14,4 @@ export default {
 
 <style scoped>
 
-header{
-    position: fixed;
-    top: 0;
-    z-index: 999;
-}
 </style>

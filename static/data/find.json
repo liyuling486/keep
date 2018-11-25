@@ -1,0 +1,53 @@
+{
+    "act": [{
+        "src": "/static/images/find-act1.png",
+        "title": "每日坚持走，冬季不长肉",
+        "des": "活动进行中",
+        "people": "51052人参与"
+    },{
+        "src": "/static/images/find-act2.png",
+        "title": "感恩有你 | Keep 马拉松",
+        "des": "活动进行中",
+        "people": "29470人参与"
+    },{
+        "src": "/static/images/find-act3.png",
+        "title": "冬季轻松燃脂 go",
+        "des": "活动进行中",
+        "people": "269676人参与"
+    },{
+        "src": "/static/images/find-act4.png",
+        "title": "瑜伽晨练打卡 | 第 3 期",
+        "des": "活动进行中",
+        "people": "10254人参与"
+    },{
+        "src": "/static/images/find-act5.png",
+        "title": "瑜伽睡前打卡",
+        "des": "活动进行中",
+        "people": "16775人参与"
+    },{
+        "src": "/static/images/find-act6.png",
+        "title": "30 天告别亚健康",
+        "des": "活动进行中",
+        "people": "32241人参与"
+    },{
+        "src": "/static/images/find-act7.png",
+        "title": "八块腹肌打造计划",
+        "des": "活动进行中",
+        "people": "55057人参与"
+    },{
+        "src": "/static/images/find-act8.png",
+        "title": "一个月瘦 4 斤挑战",
+        "des": "活动进行中",
+        "people": "147008人参与"
+    },{
+        "src": "/static/images/find-act9.png",
+        "title": "瘦腿打造计划 | 完美腿部线条",
+        "des": "活动进行中",
+        "people": "47485人参与"
+    },{
+        "src": "/static/images/find-act10.png",
+        "title": "迎战触动 | 11 月跑量挑战",
+        "des": "活动进行中",
+        "people": "80465人参与"
+    }]
+}

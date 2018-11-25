@@ -1,5 +1,8 @@
 <template>
 <div>
+    <common-header>
+        <span slot="title">发现</span>
+    </common-header>
     <div class="banner">
         <swipe class="my-swipe">
             <swipe-item class="slide1"></swipe-item>
@@ -11,13 +14,13 @@
     <nav id="nav">
         <ul>
             <li>
-                <router-link to="/mall">
+                <router-link to="/course/coursemain">
                     <img src="../../assets/images/nav1.png" alt="">
                     <span>全部课程</span>
-                </router-link>
+                </router-link> 
             </li>
             <li>
-                <router-link to="/mall/">
+                <router-link to="/find/findactivity">
                     <img src="../../assets/images/nav2.png" alt="">
                     <span>活动挑战</span>
                 </router-link>
@@ -114,21 +117,35 @@
     </main>
 
     <router-view></router-view>
-    </div>
+
+   <common-footer></common-footer>
+    
+</div>
 </template>
 <script>
+
+import CommonHeader from '../common/Header'
+import CommonFooter from '../common/Footer'
 import { Swipe, SwipeItem } from 'vue-swipe';
 import 'vue-swipe/dist/vue-swipe.css';
+
 export default {
     components: {
+        CommonHeader,
+        CommonFooter,
         'swipe': Swipe,
-        'swipe-item': SwipeItem
+        'swipe-item': SwipeItem,
     }
     
 }
 </script>
 <style scoped>
 
+header{
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
 .my-swipe {
   height: 108px;
   color: #fff;

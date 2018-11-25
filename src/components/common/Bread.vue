@@ -1,47 +1,41 @@
 <template>
 <nav>
     <ul>
-        <li class="act">
+        <li>
             <router-link to="/sport">
                 首页
                 <span></span>
             </router-link>
         </li>
         <li>
-            <router-link to="/sport/SportFit">
+            <router-link to="/sport/sportfit">
                 健身
                 <span></span>
             </router-link>
         </li>
         <li>
-            <router-link to="/sport">
+            <router-link to="/sport/sportrun">
                 跑步
                 <span></span>
             </router-link>
         </li>
         <li>
-            <router-link to="/sport">
+            <router-link to="/sport/sportKIT">
                 KIT
                 <span></span>
             </router-link>
         </li>
         <li>
-            <router-link to="/sport">
                 瑜伽
                 <span></span>
-            </router-link>
         </li>
         <li>
-            <router-link to="/sport">
                 行走
                 <span></span>
-            </router-link>
         </li>
         <li>
-            <router-link to="/sport">
                 骑行
                 <span></span>
-            </router-link>
         </li>
     </ul>
 </nav>
@@ -50,22 +44,7 @@
 
 <script>
 export default {
-    mounted(){
 
-        let navs = document.getElementsByTagName('nav')[0].getElementsByTagName('li');
-
-        function myclick(el){
-            for(let i=0;i<el.length;i++){
-                el[i].onclick = function(){
-                    for(let j=0;j<el.length;j++){
-                        el[j].className = '';
-                    }
-                    this.className = 'act';
-                }
-            }
-        }
-        myclick(navs);       
-    }
 }
 </script>
 
@@ -105,7 +84,7 @@ nav li span{
 nav .router-link-active{
     color: #584F60;
 }
-nav .act span{
+nav .router-link-active .act span{
     display: block;
 }
 

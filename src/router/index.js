@@ -4,8 +4,11 @@ import HelloWorld from '@/components/HelloWorld'
 import Sport from '@/components/sport/Sport'
 import SportMain from '@/components/sport/SportMain'
 import SportFit from '@/components/sport/SportFit'
+import SportRun from '@/components/sport/SportRun'
+import SportKIT from '@/components/sport/SportKIT'
 import Find from '@/components/find/Find'
 import FindMain from '@/components/find/FindMain'
+import FindActivity from '@/components/find/FindActivity'
 import Community from '@/components/community/Community'
 import CommunityMain from '@/components/community/CommunityMain'
 import My from '@/components/my/My'
@@ -40,6 +43,14 @@ export default new Router({
         path: 'sportfit',
         name: 'SportFit',
         component: SportFit
+      },{
+        path: 'sportrun',
+        name: 'SportRun',
+        component: SportRun
+      },{
+        path: 'sportKIT',
+        name: 'SportKIT',
+        component: SportKIT
       }]
     },{
       path: '/find',
@@ -50,6 +61,10 @@ export default new Router({
         path: 'findmain',
         name: 'FindMain',
         component: FindMain
+      },{
+        path: 'findactivity',
+        name: 'FindActivity',
+        component: FindActivity
       }]
     },{
       path: '/mall',

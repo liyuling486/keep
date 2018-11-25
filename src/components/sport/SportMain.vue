@@ -6,7 +6,6 @@
             <span>Coach</span>
         </div>
         <div class="td">
-            <span class="triangle">◆</span>
             <p class="total">
                 <router-link to="/course/record">在 KEEP 已累计运动 ></router-link>
             </p>
@@ -121,7 +120,7 @@ export default {
  .coach .td{
     width: 96%;
     background: #fff;
-    margin-top: 8%;
+    margin-top: 4%;
     position: relative;
     border-radius: 6px;
     padding: 2%;
@@ -253,7 +252,7 @@ export default {
     float: left;
     margin-right: 2%;
 }
- .training li .con img{
+ .training li img{
     width: 100%;
 }
 
